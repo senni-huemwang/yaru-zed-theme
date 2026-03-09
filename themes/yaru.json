@@ -94,7 +94,7 @@
         "terminal.ansi.white": "#bfbdb6ff",
         "terminal.ansi.bright_white": "#bfbdb6ff",
         "terminal.ansi.dim_white": "#787876ff",
-        "link_text.hover": "#5ac1feff",
+        "link_text.hover": "#e95420ff",
         "conflict": "#feb454ff",
         "conflict.background": "#572815ff",
         "conflict.border": "#754221ff",
@@ -139,9 +139,9 @@
         "warning.border": "#754221ff",
         "players": [
           {
-            "cursor": "#5ac1feff",
-            "background": "#5ac1feff",
-            "selection": "#5ac1fe3d"
+            "cursor": "#cfcfcfff",
+            "background": "#e95420ff",
+            "selection": "#e954203d"
           },
           {
             "cursor": "#39bae5ff",
