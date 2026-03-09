@@ -1,5 +1,5 @@
 {
-  "$schema": "https://zed.dev/schema/themes/v0.1.0.json",
+  "$schema": "https://zed.dev/schema/themes/v0.2.0.json",
   "name": "Yaru",
   "author": "Senni",
   "themes": [
@@ -7,7 +7,7 @@
       "name": "Yaru Dark",
       "appearance": "dark",
       "style": {
-        "border": "#22222200",
+        "border": "#222222",
         "border.variant": "#222222",
         "border.focused": "#e95420",
         "border.selected": "#e95420",
