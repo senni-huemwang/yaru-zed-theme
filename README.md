@@ -7,6 +7,6 @@ Includes both light and dark variants.
 
 ## Installation
 
-Clone the repository into Zed's locally installed extensions directory
+Clone the repository into Zed's locally installed extensions directory (e.g. ~/.local/share/zed/extensions/installed for Linux)
 
 &nbsp;

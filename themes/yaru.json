@@ -423,7 +423,7 @@
         "toolbar.background": "#ffffff",
         "tab_bar.background": "#ffffff",
         "tab.inactive_background": "#ffffff",
-        "tab.active_background": "#3b3b3d",
+        "tab.active_background": "#ebebeb",
         "search.match_background": "#99c1f166",
         "panel.background": "#fafafa",
         "panel.focused_border": null,
@@ -434,8 +434,8 @@
         "scrollbar.thumb.border": "#ffffff",
         "scrollbar.track.background": "#00000000",
         "scrollbar.track.border": "#ebebeb",
-        "editor.foreground": "#2f2f2f",
-        "editor.background": "#ffffff",
+        "editor.foreground": "#ffffff",
+        "editor.background": "#ebebeb",
         "editor.gutter.background": "#ffffff",
         "editor.subheader.background": "#ffffff",
         "editor.active_line.background": "#ebebeb",
@@ -520,9 +520,9 @@
         "warning.border": "#754221ff",
         "players": [
           {
-            "cursor": "#5ac1feff",
-            "background": "#5ac1feff",
-            "selection": "#5ac1fe3d"
+            "cursor": "#cfcfcfff",
+            "background": "#e95420ff",
+            "selection": "#e954203d"
           },
           {
             "cursor": "#39bae5ff",
